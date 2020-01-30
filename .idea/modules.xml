@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/persuasion.iml" filepath="$PROJECT_DIR$/.idea/persuasion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../persuation_sim/.idea/persuation_sim.iml" filepath="$PROJECT_DIR$/../persuation_sim/.idea/persuation_sim.iml" />
+    </modules>
+  </component>
+</project>
